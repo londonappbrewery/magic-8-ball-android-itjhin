@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorLynch">#6c7a89</color>
+    <color name="whiteSmoke">#ECECEC</color>
+    <color name="cascade">#95A5A6</color>
+    <color name="madison">#2c3e50</color>
+    <color name="ebonyClay">#22313f</color>
+    <color name="pickledBluewood">#34495E</color>
 </resources>
